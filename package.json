@@ -1,13 +1,20 @@
 {
+<<<<<<< HEAD
   "name": "meme-react-app",
+=======
+  "name": "admin_dashboard-react-app",
+>>>>>>> eba9e304f28506d4b4be8daaef8ef0b46b85af17
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+<<<<<<< HEAD
     "dom-to-image": "^2.6.0",
     "html2canvas": "^1.4.1",
+=======
+>>>>>>> eba9e304f28506d4b4be8daaef8ef0b46b85af17
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -36,8 +43,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+=======
+>>>>>>> eba9e304f28506d4b4be8daaef8ef0b46b85af17
   }
 }

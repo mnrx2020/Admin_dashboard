@@ -11,6 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+<<<<<<< HEAD
 
 /* ---------------------- */
 /* Custom properties      */
@@ -242,3 +243,5 @@ main {
   text-decoration: underline;
   color: inherit;
 }
+=======
+>>>>>>> eba9e304f28506d4b4be8daaef8ef0b46b85af17
