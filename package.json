@@ -1,5 +1,5 @@
 {
-  "name": "admin_dashboard-react-app",
+  "name": "meme-react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -23,6 +23,8 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "formik": "^2.4.3",
+    "dom-to-image": "^2.6.0",
+    "html2canvas": "^1.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-pro-sidebar": "^0.7.1",
@@ -54,5 +56,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
 }
